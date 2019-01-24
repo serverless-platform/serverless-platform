@@ -41,3 +41,5 @@ Be Owner of your Company again and don't get thrown out of buissnes by Third Par
 See how it works follow the Kickstart Guide that will help you to Build your First Serverless Infrastructure Product that don't needs a Third Party Platform to run On.
 
 Just like the introduction of the personal computer in 1977, DIREKTSPEED Serverless Platform is at the forefront of a technological revolution empowering everyday people. Join the movement and subscribe for the latest news and updates on this innovative technology that ingreeds them all.
+
+There are Owners and there are Renters. Be an Owner. Start to care about photos, music, collections... company and own stuff all that You have created!

@@ -16,4 +16,4 @@ As a adjective conglomerate is clustered together into a mass.
 Serverless Platform allows you to Cluster a Software Conglomerate into something selfhealing autoscaling less administration effort needed to help you focus on the Core Components of your Software or lets say End User Applications. it does that via Interconnectivity Features.
 
 ## Interconnectivity
-Interconnectivity is the Key of The Serverless Platform it allows you to abstract away any heterogeneity via addition of a Interconnectivity Layer that makes out of your Software Stack (Conglomerate) a Cluster so to make Sense. Interconnectivity of Conglomerate Hetrogenios Software forms a Cluster! a 
+Interconnectivity is the Key of The Serverless Platform it allows you to abstract away any heterogeneity via addition of a Interconnectivity Layer that makes out of your Software Stack (Conglomerate) a Cluster so to make Sense. Interconnectivity of Conglomerate Hetrogenios Software forms a Cluster! 

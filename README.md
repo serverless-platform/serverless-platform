@@ -17,3 +17,27 @@ Serverless Platform allows you to Cluster a Software Conglomerate into something
 
 ## Interconnectivity
 Interconnectivity is the Key of The Serverless Platform it allows you to abstract away any heterogeneity via addition of a Interconnectivity Layer that makes out of your Software Stack (Conglomerate) a Cluster so to make Sense. Interconnectivity of Conglomerate Hetrogenios Software forms a Cluster! 
+
+
+## What makes DIREKTSPEED Serverless Platform Outstanding and Unique?
+a good example is the Guide from https://serverless-stack.com/ it describes how to use AWS to build a Serverless Software Stack in a Opinionated way via Amazon AWS and React while DIREKTSPEED Serverless Platform is a Guide with Real World Examples to build Something like AWS Yourself so it brings back the Power to You the Owner of a Product with no Third Party Envolved!
+
+It’s a fully automated Platform Development Toolkit To build a System that lives at home or the office and allows you to take control of your digital life. Why pay monthly for storage services like iCloud, Dropbox, or Google Drive when you can own one? Why pay annually to host your website on someone else’s server when you could easily host it yourself? When you use The Software and Concepts from DIREKTSPEED Serverless Platform you own your stuff and maintain total privacy and control. You don't need To Pay for Services that Lock you into Something that you don't own or Control again Interconnectivity Still allows you to even use That Services for example to Prototype faster while you RollOut your own Products and Services.
+
+## The Problem
+Today all over the Internet people are giving away their digital rights. When you sign up for things like iCloud, Gmail, Google Drive, Dropbox, Facebook, or a hundred others, you get access to convenient services like online storage, email, and connections with friends and family. But you also make trade-offs. For what you gain in convenience you lose in ownership, security, privacy, and control. You give away things like ownership of your photos and grant advertisers access to see your personal information. You also make yourself more vulnerable to hacks by using centralized services because they make big juicy targets for criminals. What if there was another way?
+
+## The Solution
+What if you could keep all the things you love about any Cloud Provider like Microsoft, Google, IBM, Apple or Services like iCloud, Dropbox, Google Drive, GoDaddy, Spotify, and Facebook, but lose the baggage? What if you could ditch the advertisers and eleminate the need for any Third Party? With Software coded and Hosted by Your Self with help of the DIREKTSPEED Serverless Platform , you can. Now you can take control of your data and keep it secure and private. You own the hardware and software. You own it all. With With the DIREKTSPEED Serverless Platform Concepts and Tools you no longer have to make a choice between convenience, security, and ownership. You can have it all. You can take control of your digital life and Company!
+
+Be Owner of your Company again and don't get thrown out of buissnes by Third Partys!
+- Easily share content
+- Host Websites, Apps, Email, Messenger
+- Automatically backup your Data
+- Protect yourself from hacks
+- Ensure your social privacy
+- Manage your smart home & IoT as also Company!
+
+See how it works follow the Kickstart Guide that will help you to Build your First Serverless Infrastructure Product that don't needs a Third Party Platform to run On.
+
+Just like the introduction of the personal computer in 1977, DIREKTSPEED Serverless Platform is at the forefront of a technological revolution empowering everyday people. Join the movement and subscribe for the latest news and updates on this innovative technology that ingreeds them all.

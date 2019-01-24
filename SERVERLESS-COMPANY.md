@@ -6,5 +6,5 @@ Less Administration of Existing Hard and Software then about Care less for Serve
 - You Need a Scheduler that Replaces the Administrator
 - You Need Hardware
 - You will Create your own Clustered Operating System for all Stuff your Doing!
-  - You need to Understand that even a Operating system is a Cluster of Components Playing together as a Whole.
+  - You need to Understand that even a Operating system is a Cluster of Components Playing together as a Whole. So your Running always as Minimum even on a Single Pysical box or lets call it PC a fullfledged Software & Hardware Cluster
 

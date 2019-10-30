@@ -43,3 +43,18 @@ See how it works follow the Kickstart Guide that will help you to Build your Fir
 Just like the introduction of the personal computer in 1977, DIREKTSPEED Serverless Platform is at the forefront of a technological revolution empowering everyday people. Join the movement and subscribe for the latest news and updates on this innovative technology that ingreeds them all.
 
 There are Owners and there are Renters. Be an Owner. Start to care about photos, music, collections... company and own stuff all that You have created! And still participate of a Powerfull Worker and Thinker Pool via Related Information out of any Community devided by any Topic use the the Leverage and be the the Leverage.
+
+## Minimum Deployment
+
+
+
+
+
+
+## Prerequires
+- Couchbase Cluster or https://github.com/direktspeed/node-couchbase-server
+
+
+
+
+

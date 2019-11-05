@@ -1,0 +1,3 @@
+- Use neutron openstack networking - https://superuser.openstack.org/articles/networking-kubernetes-kuryr/
+- Use openstack Compute to scale kubernetes.
+- Use Openstack Storage 
